@@ -1,0 +1,30 @@
+<KPI_komplet>
+<KPI>
+    <ID_P>P1</ID_P>
+    <Jmeno>Jan</Jmeno>
+    <R2022>1500</R2022>
+    <R2023>2500</R2023>
+    <R2024>3500</R2024>
+</KPI>
+<KPI>
+    <ID_P>P2</ID_P>
+    <Jmeno>Pavel</Jmeno>
+    <R2022>4500</R2022>
+    <R2023>5500</R2023>
+    <R2024>6500</R2024>
+</KPI>
+<KPI>
+    <ID_P>P2</ID_P>
+    <Jmeno>Jana</Jmeno>
+    <R2022>7500</R2022>
+    <R2023>8500</R2023>
+    <R2024>9500</R2024>
+</KPI>
+<KPI>
+    <ID_P>P2</ID_P>
+    <Jmeno>Bond</Jmeno>
+    <R2022>1500</R2022>
+    <R2023>2500</R2023>
+    <R2024>3500</R2024>
+</KPI>
+</KPI_komplet>
